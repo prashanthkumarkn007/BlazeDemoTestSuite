@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-26T01:06:11 IST" name="Default suite" finished-at="2021-10-26T01:06:48 IST" duration-ms="36118">
+    <groups>
+    </groups>
+    <test started-at="2021-10-26T01:06:11 IST" name="Default test" finished-at="2021-10-26T01:06:48 IST" duration-ms="36118">
+      <class name="com.BlazeDemo.Test001">
+        <test-method is-config="true" signature="suitestart()[pri:0, instance:com.BlazeDemo.Test001@37654521]" started-at="2021-10-26T01:06:06 IST" name="suitestart" finished-at="2021-10-26T01:06:11 IST" duration-ms="5019" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suitestart -->
+        <test-method is-config="true" signature="SetUP()[pri:0, instance:com.BlazeDemo.Test001@37654521]" started-at="2021-10-26T01:06:11 IST" name="SetUP" finished-at="2021-10-26T01:06:14 IST" duration-ms="2277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUP -->
+        <test-method signature="TS001()[pri:0, instance:com.BlazeDemo.Test001@37654521]" started-at="2021-10-26T01:06:14 IST" name="TS001" finished-at="2021-10-26T01:06:47 IST" duration-ms="33044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS001 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.BlazeDemo.Test001@37654521]" started-at="2021-10-26T01:06:47 IST" name="tearDown" finished-at="2021-10-26T01:06:48 IST" duration-ms="728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="suiteend()[pri:0, instance:com.BlazeDemo.Test001@37654521]" started-at="2021-10-26T01:06:48 IST" name="suiteend" finished-at="2021-10-26T01:06:53 IST" duration-ms="5013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteend -->
+      </class> <!-- com.BlazeDemo.Test001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

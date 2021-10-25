@@ -1,0 +1,31 @@
+--------------------HOME PAGE-------------------------------
+1.	Navigate to https://blazedemo.com/
+2.	Validate You have navigated to a Blaze Demo Page
+------------------------------------------------------------
+
+--------------------FIND FLIGHT-----------------------------
+3.	Choose your Departure city as Boston
+4.	Choose your Destination city as New York
+5.	Click Find Flights
+------------------------------------------------------------
+
+--------------------RESERVE PAGE----------------------------
+6.	Validate You have navigated to a Reserve page
+7.	Click Choose this Flight for United Airlines
+------------------------------------------------------------
+
+--------------------PURCHASE PAGE---------------------------
+8.	Validate You have Navigated to a Purchase Page
+9.	Enter First Name in the Purchase Page
+10.	Enter Credit Card Number
+11.	Enter Name on Card 
+12.	Select Remember me Checkbox
+13.	Click Purchase Flight
+------------------------------------------------------------
+
+--------------------CONFIRMATION PAGE-----------------------
+14.	Validate you have navigated to a confirmation page
+15.	Print – Amount, Card Number and Expiration
+------------------------------------------------------------
+16.	Close the Browser
+17.	General Requirement: Handle Synchronization issues where ever required
